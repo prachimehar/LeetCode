@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
