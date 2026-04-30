@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prachimehar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prachimehar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
