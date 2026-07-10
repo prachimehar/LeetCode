@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prachimehar/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachimehar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/prachimehar/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/prachimehar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachimehar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prachimehar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/prachimehar/LeetCode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
