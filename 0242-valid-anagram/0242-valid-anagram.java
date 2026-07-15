@@ -3,20 +3,21 @@ class Solution {
 
     if(s.length() != t.length()) return false;
 
-    int[] freq = new int[26];
+    Map<Character, Integer> map = new HashMap<>();
 
-    for(int i = 0; i < s.length(); i++){
-        int indx1 = s.charAt(i) - 'a';
-        int indx2 = t.charAt(i) - 'a';
-
-        freq[indx1]++;
-        freq[indx2]--;
+    for(char ch : s.toCharArray()){
+        map.put(ch, map.getOrDefault(ch,0) + 1);
     }
 
-    for(int i = 0; i < 26; i++){
-        if(freq[i] != 0) return false;
+    for(char ch : t.toCharArray()){
+        if(!map.containsKey(ch)) return false;
+
+        map.put(ch, map.getOrDefault(ch,0)-1);
+
+        if(map.get(ch) < 0) return false;
     }
 
     return true;
-}
+    
+    }
 }
