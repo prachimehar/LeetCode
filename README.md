@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prachimehar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/prachimehar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prachimehar/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prachimehar/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/prachimehar/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prachimehar/LeetCode/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
