@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/prachimehar/LeetCode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/prachimehar/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prachimehar/LeetCode/tree/master/1251-average-selling-price) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prachimehar/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prachimehar/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/prachimehar/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/prachimehar/LeetCode/tree/master/1795-rearrange-products-table) |
