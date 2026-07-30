@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/prachimehar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0738-monotone-increasing-digits](https://github.com/prachimehar/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prachimehar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prachimehar/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/prachimehar/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/prachimehar/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
