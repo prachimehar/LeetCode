@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prachimehar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/prachimehar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prachimehar/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/prachimehar/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prachimehar/LeetCode/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
