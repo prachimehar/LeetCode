@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prachimehar/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prachimehar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prachimehar/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/prachimehar/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachimehar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/prachimehar/LeetCode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
 |  |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
