@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prachimehar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prachimehar/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prachimehar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
