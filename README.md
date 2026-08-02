@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/prachimehar/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachimehar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prachimehar/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachimehar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1052-grumpy-bookstore-owner](https://github.com/prachimehar/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Game Theory
 |  |
 | ------- |
@@ -303,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/prachimehar/LeetCode/tree/master/0046-permutations) |
+## Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
