@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prachimehar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0999-available-captures-for-rook](https://github.com/prachimehar/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/prachimehar/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0999-available-captures-for-rook](https://github.com/prachimehar/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0999-available-captures-for-rook](https://github.com/prachimehar/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Trie
 |  |
 | ------- |
