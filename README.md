@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prachimehar/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-find-missing-elements](https://github.com/prachimehar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3912-valid-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
