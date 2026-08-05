@@ -265,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prachimehar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/prachimehar/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/prachimehar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/prachimehar/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/prachimehar/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
