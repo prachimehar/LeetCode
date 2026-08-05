@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prachimehar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/prachimehar/LeetCode/tree/master/0877-stone-game) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/prachimehar/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -385,8 +388,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prachimehar/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
