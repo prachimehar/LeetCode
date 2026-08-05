@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prachimehar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prachimehar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prachimehar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/prachimehar/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prachimehar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prachimehar/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/prachimehar/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prachimehar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
