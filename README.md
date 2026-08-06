@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prachimehar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prachimehar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0392-is-subsequence) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/prachimehar/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prachimehar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prachimehar/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/prachimehar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/prachimehar/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/prachimehar/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/prachimehar/LeetCode/tree/master/0877-stone-game) |
