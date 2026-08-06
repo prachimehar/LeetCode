@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/prachimehar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prachimehar/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimehar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/prachimehar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
