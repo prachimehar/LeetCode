@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/prachimehar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1590-make-sum-divisible-by-p](https://github.com/prachimehar/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/prachimehar/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prachimehar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/prachimehar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/prachimehar/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/prachimehar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
