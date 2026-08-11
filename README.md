@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/prachimehar/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/prachimehar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prachimehar/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/prachimehar/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/prachimehar/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachimehar/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/prachimehar/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prachimehar/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/prachimehar/LeetCode/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/prachimehar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1590-make-sum-divisible-by-p](https://github.com/prachimehar/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 ## Hash Function
 |  |
 | ------- |
@@ -526,4 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/prachimehar/LeetCode/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
