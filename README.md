@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prachimehar/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/prachimehar/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prachimehar/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/prachimehar/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prachimehar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachimehar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/prachimehar/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prachimehar/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prachimehar/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prachimehar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/prachimehar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/prachimehar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1590-make-sum-divisible-by-p](https://github.com/prachimehar/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prachimehar/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/prachimehar/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prachimehar/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
