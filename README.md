@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prachimehar/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/prachimehar/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/prachimehar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prachimehar/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/prachimehar/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prachimehar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/prachimehar/LeetCode/tree/master/0412-fizz-buzz) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prachimehar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prachimehar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prachimehar/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/prachimehar/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prachimehar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prachimehar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prachimehar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/prachimehar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prachimehar/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/prachimehar/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/prachimehar/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/prachimehar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prachimehar/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/prachimehar/LeetCode/tree/master/0383-ransom-note) |
@@ -559,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/prachimehar/LeetCode/tree/master/1122-relative-sort-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/prachimehar/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
