@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/prachimehar/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/prachimehar/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/prachimehar/LeetCode/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/prachimehar/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/prachimehar/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prachimehar/LeetCode/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/prachimehar/LeetCode/tree/master/1341-movie-rating) |
