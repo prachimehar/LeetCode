@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/prachimehar/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/prachimehar/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prachimehar/LeetCode/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/prachimehar/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/prachimehar/LeetCode/tree/master/1341-movie-rating) |
 | [1517-find-users-with-valid-e-mails](https://github.com/prachimehar/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/prachimehar/LeetCode/tree/master/1527-patients-with-a-condition) |
