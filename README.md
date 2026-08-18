@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prachimehar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/prachimehar/LeetCode/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prachimehar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/prachimehar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prachimehar/LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/prachimehar/LeetCode/tree/master/0495-teemo-attacking) |
 | [0999-available-captures-for-rook](https://github.com/prachimehar/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachimehar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
