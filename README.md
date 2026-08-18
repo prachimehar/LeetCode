@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/prachimehar/LeetCode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/prachimehar/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/prachimehar/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimehar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prachimehar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prachimehar/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/prachimehar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/prachimehar/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/prachimehar/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prachimehar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/prachimehar/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimehar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/prachimehar/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Game Theory
