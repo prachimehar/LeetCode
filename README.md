@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/prachimehar/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prachimehar/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/prachimehar/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/prachimehar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prachimehar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prachimehar/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/prachimehar/LeetCode/tree/master/0456-132-pattern) |
+| [0682-baseball-game](https://github.com/prachimehar/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prachimehar/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prachimehar/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/prachimehar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prachimehar/LeetCode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/prachimehar/LeetCode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/prachimehar/LeetCode/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/prachimehar/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prachimehar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prachimehar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
