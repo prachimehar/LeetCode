@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/prachimehar/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prachimehar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/prachimehar/LeetCode/tree/master/0738-monotone-increasing-digits) |
+| [0812-largest-triangle-area](https://github.com/prachimehar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/prachimehar/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prachimehar/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prachimehar/LeetCode/tree/master/1406-stone-game-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prachimehar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0812-largest-triangle-area](https://github.com/prachimehar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/prachimehar/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prachimehar/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/prachimehar/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -623,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/prachimehar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/prachimehar/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/prachimehar/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
