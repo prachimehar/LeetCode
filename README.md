@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/prachimehar/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/prachimehar/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prachimehar/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/prachimehar/LeetCode/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/prachimehar/LeetCode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prachimehar/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/prachimehar/LeetCode/tree/master/0917-reverse-only-letters) |
