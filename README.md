@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/prachimehar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/prachimehar/LeetCode/tree/master/0706-design-hashmap) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/prachimehar/LeetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0806-number-of-lines-to-write-string](https://github.com/prachimehar/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/prachimehar/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/prachimehar/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prachimehar/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/prachimehar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/prachimehar/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/prachimehar/LeetCode/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/prachimehar/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/prachimehar/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prachimehar/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/prachimehar/LeetCode/tree/master/0824-goat-latin) |
