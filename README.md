@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prachimehar/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prachimehar/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/prachimehar/LeetCode/tree/master/1927-sum-game) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/prachimehar/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/prachimehar/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2514-count-anagrams](https://github.com/prachimehar/LeetCode/tree/master/2514-count-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prachimehar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
